@@ -25,7 +25,7 @@ To configure these options, open the `config-(YOUR PORT).yml` file located in th
 
 ## Permissions
 
-- `horrorsounds.access`: Grants access to the Horror Sounds plugin commands.
+- `horrorsounds.forcesound`: Grants access to the Horror Sounds plugin commands.
 
 ## License
 
