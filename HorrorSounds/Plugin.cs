@@ -12,7 +12,7 @@ namespace HorrorSounds
         public override string Name { get; } = "Horror Sounds";
         public override string Prefix { get; } = "horrorsounds";
         public override Version Version => new Version(1, 0, 0);
-        public override Version RequiredExiledVersion => new Version(7, 0, 0);
+        public override Version RequiredExiledVersion => new Version(8, 0, 0);
         public Random Random { get; } = new Random();
 
         private CoroutineHandle cassieCoroutine;
