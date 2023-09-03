@@ -1,4 +1,4 @@
-﻿using CommandSystem;
+using CommandSystem;
 using Exiled.API.Features;
 using Exiled.Permissions.Extensions;
 using System;
@@ -26,7 +26,7 @@ namespace HorrorSounds
                 return false;
             }
 
-            int randomIndex = Plugin.Instance.Random.Next(Plugin.Instance.Config.CustomSounds.Count);
+            int randomIndex = UnityEngine.Random.Range(0, Plugin.Instance.Config.CustomSounds.Count);
             string randomSound = Plugin.Instance.Config.CustomSounds[randomIndex];
 
             Cassie.Message(randomSound, false, false);
