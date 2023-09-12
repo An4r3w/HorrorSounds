@@ -21,7 +21,7 @@ To configure these options, open the `config-(YOUR PORT).yml` file located in th
 
 ## Commands
 
-- `forcehorrorsounds`. Aliases: `hs`, `fhs`, `forcehs`, `forcehorror`: Displays information about the Horror Sounds plugin.
+- `forcehorrorsounds`. Aliases: `hs`, `fhs`, `forcehs`, `forcehorror`: Forces a horror sound to be played.
 
 ## Permissions
 
