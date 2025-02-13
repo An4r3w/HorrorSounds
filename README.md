@@ -1,6 +1,6 @@
 # Horror Sounds Plugin
 
-Horror Sounds is an Exiled plugin for SCP: Secret Laboratory that adds random and spine-chilling horror sounds to enhance the atmosphere of your server. You can configure a list of custom sounds to be played randomly, creating an immersive and eerie experience for your players.
+Horror Sounds is an Exiled plugin for SCP: Secret Laboratory that adds random configurable CASSIEs (mainly sounds and short phrases) throught the game.
 
 ## Installation
 
