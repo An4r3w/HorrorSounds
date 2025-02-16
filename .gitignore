@@ -1,0 +1,9 @@
+﻿################################################################################
+# Il file gitignore è stato creato automaticamente da Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/HorrorSounds/.vs
+/HorrorSounds/bin/Debug
+/HorrorSounds/obj
+/packages/ExMod.Exiled.9.5.0
