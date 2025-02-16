@@ -10,7 +10,7 @@ namespace HorrorSounds
         public override string Name { get; } = "Horror Sounds";
         public override string Prefix { get; } = "horrorsounds";
         public override Version Version => new Version(1, 0, 0);
-        public override Version RequiredExiledVersion => new Version(8, 0, 0);
+        public override Version RequiredExiledVersion => new Version(9, 5, 0);
 
         private EventHandler events;
         public static Plugin Instance { get; set; }
