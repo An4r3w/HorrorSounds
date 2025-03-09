@@ -10,7 +10,6 @@ namespace HorrorSounds
     {
         private CoroutineHandle cassieCoroutine;
         private List<string> customSounds;
-        public Random Random { get; } = new Random();
 
         public void OnRoundStarted()
         {
